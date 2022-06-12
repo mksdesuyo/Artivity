@@ -2,43 +2,27 @@
     "articles": [
         {
             "id": 0,
-            "title": "Understand That Overwork Is Not Necessary For Success",
-            "source": "https://hbr.org/2022/05/resisting-the-pressure-to-overwork",
-            "content": [
-                {
-                    "firstContent": "If you buy into that thinking, even just a tiny bit, you won’t be able to resist triggers, like others telling you about their overworking. This social pressure will activate your anxiety, with all the attendant emotional and physical reactions.",
-                    "secondContent": "Here’s an example. Another author recently told me how many podcasts interviews they’d done to support their book launch. It was far more than me, and this sent me into a spiral of worry. Even hours later, my heart rate remained elevated and my mind kept drifting back to it.",
-                    "thirdContent": "To avoid the temptation to keep up with vocal overworkers like that author you need to radically reject the idea that such behavior is required or even beneficial. In my case, I literally had to say to myself, “That person believes overworking is necessary for success. I don’t believe that.”",
-                    "fourthContent": "If a situation continues to trigger you, consider using even more compassionate self-talk. For example, “I feel anxious that if I don’t buy into their assumptions, I’m going to fail. My success is important to me, so that’s scary. But I’m going to remind myself about how I can do my best work through methods that don’t involve overworking.”"
-                }
-            ]
+            "title": "Becoming Productive",
+            "author": "Rizqi MKS",
+            "content": "Productive is not always about hard working, but sometimes it is about managing. You need to manage your time, your what to do, your hobby, and so on, in order to achieve the productiveness of you."
         },
         {
             "id": 1,
-            "title": "Reject Hustle Culture. Instead Focus On Deeper Goals And Your Craft",
-            "source": "https://hbr.org/2022/05/resisting-the-pressure-to-overwork",
-            "content": [
-                {
-                    "firstContent": "Einstein wasn’t trying to “crush it” or “kill it” at work. In fact, the behaviors and language associated with hustle culture don’t typically lead to great accomplishments. What does is the pursuit of deeper, more personal goals like knowing and understanding important phenomena, solving complex problems, or making a positive impact in society.",
-                    "secondContent": "You might think about goals in more concrete terms, of course (for example, sales targets) but also consider the greater ambition that matters most to you and try to focus on the tasks and assignments that help you achieve it, jettisoning much of the rest.",
-                    "thirdContent": "Another way to step away from hustle culture — whether you’re a teacher, accountant, or manager — is to reframe your job as a craft that you’re trying to hone. This should make you more interested in facets of work like acquiring skills, getting feedback, and interacting with a wide range of people who can help you improve.",
-                    "fourthContent": "All of these will propel you to, not more, but more important work that allows you to make good on your big goals."
-                }
-            ]
+            "title": "Be Yourself, Be Not",
+            "author": "Rizqi MKS",
+            "content": "Sometimes people get confused on how to achieve their productiveness. Most common reason is that people always see others people work, and not themselves. That always lead to an ignorant emotion where you feel like what youre doing is just does not make any changes on your life. So be yourself, but not be your bad-self."
         },
         {
             "id": 2,
-            "title": "Ignore Requests To Overwork",
-            "source": "https://hbr.org/2022/05/resisting-the-pressure-to-overwork",
-            "content": [
-                {
-                    "firstContent": "Here’s a very basic law of psychology: When behaviors are reinforced, they increase. When you ignore them, you might see an “extinction burst” — a short-term rise in the problematic behaviors — but then they will stop.",
-                    "secondContent": "For example, if a colleague emails you after-hours and you reply, you’re encouraging more work at night. The sender will ask for more — from you and everyone else. If you instead ignore inappropriate attempts to push you to overwork, the person may for a short period of time try frenetically and in more manipulative ways to get you to comply — the extinction burst — but then they’ll adapt. People are wired to learn.",
-                    "thirdContent": "If your boss is the one pressing you to overwork, that’s one of the most basic signs of an abusive work culture. Make your boundaries clear, and, if the behaviors don’t stop, consider roles on different teams or in different organizations with managers who have more realistic expectations. As Adam Grant says, “It’s not your job to fix a toxic workplace from the bottom.”",
-                    "fourthContent": "We all face internal and external pressure to do more. But, in the pursuit of career success and fulfillment, overwork is your enemy, not your friend. These strategies can help you push back against it."
-                }
-            ]
+            "title": "Take A Break!",
+            "author": "Rizqi MKS",
+            "content": "Take a break when you already meet your schedule. It is also important to note that working makes you stress, whether it is a little or more. So don't be afraid to take a break. That will help you eventually to achieve your productivity as well."
+        },
+        {
+            "id": 3,
+            "title": "Do Not Overdo!",
+            "author": "Rizqi MKS",
+            "content": "As i have mention in the earlier post, do not overdo yourself to achieve productiveness. Given by the data, you just need to do your work on your own pace. That way you can also achieve productivity and good resolution on feeling also."
         }
     ]
 }
-
